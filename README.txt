@@ -28,3 +28,6 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+(I took this from HTML5 UP if you haven't noticed.)
+	-Dakota
