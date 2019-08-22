@@ -648,12 +648,12 @@ input, select, textarea {
 			pointer-events: none;
 			content: '';
 			display: block;
-			height: 100%;
+			height: 50%;
 			left: 0;
-			opacity: 0.5;
+			opacity: 0;
 			position: absolute;
 			top: 0;
-			width: 100%;
+			width: 50%;
 		}
 
 		.image img {
@@ -666,7 +666,7 @@ input, select, textarea {
 		}
 
 			.image.left img, .image.right img {
-				width: 100%;
+				width: 50%;
 			}
 
 		.image.left {
